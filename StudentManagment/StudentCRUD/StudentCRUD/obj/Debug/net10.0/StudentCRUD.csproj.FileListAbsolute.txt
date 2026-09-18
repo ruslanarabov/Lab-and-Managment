@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/bin/Debug/net10.0/StudentCRUD
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/bin/Debug/net10.0/StudentCRUD.deps.json
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/bin/Debug/net10.0/StudentCRUD.runtimeconfig.json
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/bin/Debug/net10.0/StudentCRUD.dll
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/bin/Debug/net10.0/StudentCRUD.pdb
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.AssemblyInfo.cs
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.sourcelink.json
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.dll
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/refint/StudentCRUD.dll
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.pdb
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/StudentCRUD.genruntimeconfig.cache
+/Users/macbook/Desktop/Lab and Managment/StudentManagment/StudentCRUD/StudentCRUD/obj/Debug/net10.0/ref/StudentCRUD.dll
